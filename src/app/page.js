@@ -30,7 +30,7 @@ export default function Home() {
       MySwipe.current?.slideNext();
     }
     else {
-      router.push("/YouDidGreat")
+      router.push("/great-work")
     }
   }
 
@@ -83,9 +83,8 @@ export default function Home() {
               {/* YE APNA BTN   */}
               <div className="absolute top-0 flex justify-between items-center w-full flex-col h-full py-5  ">
                 <div className='text-center  ' >
-                  <h1 className='text-3xl font-bold'>Design</h1>
-                  <p className='text-sm max-w-full px-8 '>Look at the pictures. Note that each picture has one animal and one object.
-                  examples of how plants and animals have inspired inventions
+                  <h1 className='text-3xl font-bold'>Biomimicry</h1>
+                  <p className='text-sm max-w-full px-8 '>Copy the Nature.
                   </p>
 
                 </div>
