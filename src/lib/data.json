@@ -1,0 +1,44 @@
+[
+    {
+      "Image1": "/SlideImg/bat.png",
+      "Image2": "/SlideImg/dron.jpg",
+  
+      "firstHeading": "Bat",
+      "SecoundHeading": "Drone"
+  
+    },
+  
+    {
+      "Image1": "/SlideImg/lotus.jpg",
+      "Image2": "/SlideImg/art.jpg",
+      "firstHeading": "Lotus leaf",
+      "SecoundHeading": "Dirt repelling paint"
+  
+    },
+  
+    {
+      "Image1": "/SlideImg/Burr seeds.jpg",
+      "Image2": "/SlideImg/Velcro.jpg",
+  
+      "firstHeading": "Burr seeds ",
+      "SecoundHeading": "Velcro"
+  
+    },
+    {
+      "Image1": "/SlideImg/gecko.jpg",
+      "Image2": "/SlideImg/Adhesive.jpg",
+  
+      "firstHeading": "Gecko ",
+      "SecoundHeading": "Adhesive"
+  
+    },
+    {
+      "Image1": "/SlideImg/woodpecker.jpg",
+      "Image2": "/SlideImg/football.jpg",
+  
+      "firstHeading": "Woodpecker ",
+      "SecoundHeading": "Football helmet"
+  
+    }
+  ]
+  
